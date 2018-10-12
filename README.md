@@ -6,11 +6,11 @@ _______________
 To get started, open Terminal or a command prompt and run:
 
 	cd path/to/wp-content/themes
-	git clone https://github.com/320press/wordpress-bootstrap.git
+	git clone https://github.com/salis77/farnam-wordpress-blog-theme
 	npm install
 	grunt dev
 
-FEATURES
+##FEATURES
 ________
 
 
@@ -18,7 +18,7 @@ farnam uses grunt as a task manager to help aid development. Check out the grunt
 
 Watch or star this project to keep up with its progress.
 
-Page Templates
+##Page Templates
 ______________
 
 We’ve packaged four different page templates into this theme.
@@ -27,13 +27,13 @@ We’ve packaged four different page templates into this theme.
     - Standard page with right sidebar (this page)
     - Page with left sidebar
 
-Theme Options Panel
+##Theme Options Panel
 ___________________
 
 you can see a very attractive panel for this theme which you can do any thing you want from a setting 
 
 
-CONTRIBUTE!
+##CONTRIBUTE!
 ___________
 
 This project would not exist in its current state today were it not for lots of generous folks who have contributed to it. 
